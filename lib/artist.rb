@@ -6,7 +6,7 @@ class Artist
     
   end
   
-  def song 
+  def self.all 
     @song = song
   end
   
